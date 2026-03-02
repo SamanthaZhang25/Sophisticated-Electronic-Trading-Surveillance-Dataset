@@ -1,4 +1,3 @@
-# Sophisticated-Electronic-Trading-Surveillance-Dataset
 # Sophisticated Electronic Trading Surveillance Dataset
 
 ## Overview
